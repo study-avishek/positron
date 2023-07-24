@@ -64,6 +64,6 @@ To set up and run the Positron project, follow these steps:
 
 ## Support
 
-If you have any questions, feedback, or encounter issues, please [open an issue](https://github.com/your-username/positron/issues) on GitHub. We appreciate your valuable input!
+If you have any questions, feedback, or encounter issues, please [open an issue](https://github.com/study-avishek/positron/issues) on GitHub. We appreciate your valuable input!
 
 Happy retailing with Positron! 🚀
