@@ -57,10 +57,10 @@ Positron is an innovative project that provides a comprehensive Point of Sale (P
 
 To set up and run the Positron project, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/your-username/positron.git`
+1. Clone the repository from GitHub: `git clone https://github.com/study-avishek/positron.git`
 2. Install the required dependencies using [Maven](https://maven.apache.org/).
 3. Configure the database settings in the application properties.
-4. Run the Pos App and Invoice App modules independently.
+4. Run the Pos App and Invoice App modules independently.(Run the invoice-app first)
 
 ## Support
 
